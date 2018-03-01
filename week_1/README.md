@@ -1,11 +1,11 @@
 Jour 1 : Pré-parcours
 -------------------------
-
+Durant le préparcours, tu fera tes premiers pas dans le code et tu configurera ta machine pour pouvoir réaliser l'ensemble du parcours. Cela comprends : faire la track Ruby de codecademy.com, installer Linux en dualboot pour les machine sous Windows, faire l'installfest afin d'installer tous les packages et dépendences nécéssaires au développement. 
 
 Jour 2 : Introductions
 -------------------------
 
-Le matin de ce premier jour sera consacré à des petits jeux en équipe, afin que tout le monde puisse apprendre à se connaître avant de faire The Hacking Project. L'après-midi vous allez découvrir le terminal / Git / Github ensemble et faire un projet qui requiert la participation de tout le monde.
+Ce jour vous allez découvrir le terminal / Git / Github ensemble et faire un projet qui requiert la participation de tout le monde.
 
 Jour 3 : HTML / CSS, les bases
 -------------------------
