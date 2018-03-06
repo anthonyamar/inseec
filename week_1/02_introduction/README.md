@@ -38,10 +38,10 @@ Ce projet va te demander travailler avec toute ton équipe : vous allez devoir c
 1. Résumé du projet
 
 Dans ce projet, toi et ton équipe allez devoir créer un repository Github et tous y mettre un fichier chacun.<br>
-1.1. Github
+2. Github
 
 L'un d'entre vous va devoir créer un repository Github, et tous vous ajouter en tant que contributeurs.<br>
-1.2. Fichiers
+3. Fichiers
 
 Puis chacun d'entre vous va faire un fichier qui s'appelle ton_prénom.rb qui est un programme Ruby qui devra afficher le prénom de la personne. Enfin, chacun va push son fichier, afin qu'il apparaisse sur le repository Github.<br>
 
