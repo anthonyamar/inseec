@@ -6,7 +6,7 @@ Le pair programming est une technique qui permet de bien s'améliorer en code, e
 
 Nous allons voir quelques guidelines pour faire du pair programming à The Hacking Project :
 
-1. Prends 2 personnes à niveau équivalent
+1- Prends 2 personnes à niveau équivalent
 ------------------------- 
 
 S'il y a une disparité trop grande entre les niveaux (surtout quand on débute la programmation), une personne survolera tandis que l'autre ne suivra pas. Il faut donc que les deux soient à niveau équivalent.
@@ -14,17 +14,17 @@ S'il y a une disparité trop grande entre les niveaux (surtout quand on débute 
 * Le groupe de bons pourra défricher le terrain pour mieux aider les autres sur les même problématiques sur lesquelles ils ont penché. "-Hey tu sais comment faire ceci ?" "-Ah oui, on a eu le même soucis on a pas mal galéré mais en fait la solution c'est ça"
 * Les moins bons vont parler le même langage et essayer de comprendre mutuellement les problématiques sur lesquelles ils penchent
 
-2. Un repository Github va être créé
+2- Un repository Github va être créé
 ----------------------------
 
 Pour que vous puissiez chacun travailler sur le repository Github, il va falloir que vous fassiez des `git clone`, `git push`, `git pull`. Le cours de Git explique ceci en détails.
 
-3. Deux personnes sur un ordinateur
+3- Deux personnes sur un ordinateur
 -------------------------------------
 
 Une personne va taper le code sur son ordinateur, tandis que l'autre va lui dire quoi taper. Vous allez échanger sur les meilleures façons de résoudre le problème, et résoudre les problématiques.
 
-4. Alterner
+4- Alterner
 --------------------------------------
 
 Il est bien d'alterner. Le tapeur peut `git push` son code, et le planeur fait un `git pull` pour récupérer les modifications. Vous alternez et changez d'ordinateur.
