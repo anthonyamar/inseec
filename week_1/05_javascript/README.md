@@ -40,7 +40,7 @@ Faire une page toute nouvelle. Cette page va demander à l'utilisateur (via un a
 
 * Au début, fais des carrés qui ont une taille prédéterminée
 * Maintenant, tous ces petits carrés doivent rentrer dans un grand carré qui rentre dans la page. Ainsi, si l'utilisateur répond qu'il veut une grille de 1 x 1, le petit carré aura la taille de width_grand_carré x heigth_grand_carré. S'il veut une grille de 3 x 3, les petits carrés auront une taille de (width_grand_carré / 3) x (heigth_grand_carré / 3), et ainsi de suite
-<br>
+
 (hint : la boucle for est ton amie)
 
 
