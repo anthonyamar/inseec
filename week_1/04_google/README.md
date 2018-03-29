@@ -38,14 +38,15 @@ Nous allons te demander de découvrir le monde merveilleux du CSS, qui permet de
 
 Faire la page d'accueil de Google
 --------------------------------
-
 Tu vas recréer la page d'accueil de Google.com. Ce projet te permettra de déconstruire une page web pour mieux la reconstruire.<br> Le but est d'essayer de comprendre comment la page est organisée, et de lutter contre du CSS récalcitrant. On te conseille d'utiliser l'inspecteur d'éléments pour que tu puisses connaitre certaines propriétés des éléments.
+
 1- Setup
 --------------
 
 Avant toute chose, nous te conseillons de préparer le repository Github, afin que tu puisses travailler dessus pour le projet, et nous le soumettre une fois le projet fini.<br>
 
 Ensuite, pour ce projet, il est fortement conseillé de le faire en pair-programming.
+
 2- Au boulot
 -----------------
 
