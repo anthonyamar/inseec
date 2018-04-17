@@ -19,7 +19,9 @@ En groupe, vous allez travailler sur un projet de site très simple, avec une la
 * Un footer
 Prenez ce projet au sérieux, car il va vous suivre assez longtemps dans la formation ! Nous essayerons de l'améliorer au fil du temps avec les nouveaux concepts que l'on apprendra. Vous pouvez l'utiliser pour vos autres cours : SEO, UI/UX Design... Bref, mettez à profit toutes vos connaissances ! 
 
-#### - Préparation
+[En voici un que j'ai fait avec ces guidelines comme exemple.](http://drunk-memory.surge.sh/)
+
+### Préparation
 Le projet est à faire en équipe, vous allez donc devoir sélectionner un chef de projet et assigner à chacun une tâche. Ex : 
 * Jean s'occupe du header
 * Paul du Slider
@@ -30,7 +32,7 @@ Comme vous travaillez sur une seule page, il va falloir que vous vous échangiez
 Trouvez-vous une idée sympa de boite. Ça peut être n'importe quoi : vente de produits divers, services, nouvelle application, conquête spatiale, secte, whatever. Soyez fun et originaux, pas forcément réaliste. Prenez un truc qui vous plait, car vous allez travailler dessus longtemps !<br>
 Dessinez [un petit wireframe des familles](http://www.quertime.com/wp-content/uploads/2012/05/best_wireframing_prototyping_mockup_tools_for_web_design_planning.jpg) à main levé histoire de savoir à peu près où vous allez. <br> 
 
-#### - Côté code
+### Côté code
 Préparez bien votre dossier et vos fichier : index.html, styles.css, script.js. <br>
 Dans votre page HTML, linkez votre feuille de style et tous les CDN/Frameworks, comme 
 * [FontAwesome](https://fontawesome.com/)
@@ -40,7 +42,7 @@ Dans votre page HTML, linkez votre feuille de style et tous les CDN/Frameworks, 
 Une fois que c'est fait, le chef de projet effectue un premier push sur Github. <br>
 Maintenant, vous pouvez commencer à coder chacun votre partie. Faites un point assez régulièrement et ajoutez tous votre code afin de commencer à voir le résultat du site. 
 
-#### - Coincé ? Suis ces étapes !
+### Coincé ? Suis ces étapes !
 1. [RTFM](http://imanweb.free.fr/rtfm/rtfm.jpg)
 2. [Un site mortel qui vous débloque n'importe quel problème si vous lui demandez correctement](https://google.com)
 3. [Un autre site mortel où tous les problèmes que vous avez ont déjà été résolus](https://stackoverflow.com)
