@@ -16,7 +16,7 @@ En groupe, vous allez travailler sur un projet de site très simple, avec une la
 * Un Slider
 * Deux ou trois encarts, avec votre Value Proposition, du blabla sur votre boite, deux trois exemples de produits, vos tarifs... Soyez créatifs !
 * Un encart contact
-* Un footer
+* Un footer <br>
 Prenez ce projet au sérieux, car il va vous suivre assez longtemps dans la formation ! Nous essayerons de l'améliorer au fil du temps avec les nouveaux concepts que l'on apprendra. Vous pouvez l'utiliser pour vos autres cours : SEO, UI/UX Design... Bref, mettez à profit toutes vos connaissances ! 
 
 [En voici un que j'ai fait avec ces guidelines comme exemple.](http://drunk-memory.surge.sh/)
