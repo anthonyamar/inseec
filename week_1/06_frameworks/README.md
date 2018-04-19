@@ -38,7 +38,7 @@ Dans votre page HTML, linkez votre feuille de style et tous les CDN/Frameworks, 
 * [FontAwesome](https://fontawesome.com/)
 * [jQuery](https://www.w3schools.com/jquery/jquery_get_started.asp)
 * [Bootstrap](https://getbootstrap.com/)
-* [Animate.css](https://getbootstrap.com/)<br><br>
+* [Animate.css](https://daneden.github.io/animate.css/)<br><br>
 Une fois que c'est fait, le chef de projet effectue un premier push sur Github. <br>
 Maintenant, vous pouvez commencer à coder chacun votre partie. Faites un point assez régulièrement et ajoutez tous votre code afin de commencer à voir le résultat du site. 
 
