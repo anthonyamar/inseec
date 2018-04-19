@@ -16,7 +16,7 @@ En groupe, vous allez travailler sur un projet de site très simple, avec une la
 * Un Slider
 * Deux ou trois encarts, avec votre Value Proposition, du blabla sur votre boite, deux trois exemples de produits, vos tarifs... Soyez créatifs !
 * Un encart contact
-* Un footer <br>
+* Un footer <br><br>
 Prenez ce projet au sérieux, car il va vous suivre assez longtemps dans la formation ! Nous essayerons de l'améliorer au fil du temps avec les nouveaux concepts que l'on apprendra. Vous pouvez l'utiliser pour vos autres cours : SEO, UI/UX Design... Bref, mettez à profit toutes vos connaissances ! 
 
 [En voici un que j'ai fait avec ces guidelines comme exemple.](http://drunk-memory.surge.sh/)
@@ -26,9 +26,9 @@ Le projet est à faire en équipe, vous allez donc devoir sélectionner un chef 
 * Jean s'occupe du header
 * Paul du Slider
 * Emma et Pierre des encarts
-* Harry est chef de projet donc tranche pour les décisions et vérifie et compile le code le code puis le push sur Github. 
+* Harry est chef de projet donc tranche pour les décisions et vérifie et compile le code le code puis le push sur Github. <br>
 Ouvrez un nouveau repo Github pour pusher le projet. <br> 
-Comme vous travaillez sur une seule page, il va falloir que vous vous échangiez des bouts de codes. Vous pouvez utiliser [Gist](https://gist.github.com/) pour ça. <br>
+Comme vous travaillez sur une seule page, il va falloir que vous vous échangiez des bouts de codes. Vous pouvez utiliser [Gist](https://gist.github.com/) pour ça. <br><br>
 Trouvez-vous une idée sympa de boite. Ça peut être n'importe quoi : vente de produits divers, services, nouvelle application, conquête spatiale, secte, whatever. Soyez fun et originaux, pas forcément réaliste. Prenez un truc qui vous plait, car vous allez travailler dessus longtemps !<br>
 Dessinez [un petit wireframe des familles](http://www.quertime.com/wp-content/uploads/2012/05/best_wireframing_prototyping_mockup_tools_for_web_design_planning.jpg) à main levé histoire de savoir à peu près où vous allez. <br> 
 
@@ -38,7 +38,7 @@ Dans votre page HTML, linkez votre feuille de style et tous les CDN/Frameworks, 
 * [FontAwesome](https://fontawesome.com/)
 * [jQuery](https://www.w3schools.com/jquery/jquery_get_started.asp)
 * [Bootstrap](https://getbootstrap.com/)
-* [Animate.css](https://getbootstrap.com/)
+* [Animate.css](https://getbootstrap.com/)<br><br>
 Une fois que c'est fait, le chef de projet effectue un premier push sur Github. <br>
 Maintenant, vous pouvez commencer à coder chacun votre partie. Faites un point assez régulièrement et ajoutez tous votre code afin de commencer à voir le résultat du site. 
 
