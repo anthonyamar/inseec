@@ -72,8 +72,8 @@ jean_michel_data("Howdy partner, sit down! How's it going?", dictionary)
 
 Google veut savoir combien de fois l'on peut trouver dans l'oeuvre intégrale de Shakespeare les mots suivants :
 
-```Ruby dictionnary = ["the", "of", "and", "to", "a", "in", "for", "is", "on", "that", "by", "this", "with", "i", "you", "it", "not", "or", "be", "are"]
-```
+` dictionnary = ["the", "of", "and", "to", "a", "in", "for", "is", "on", "that", "by", "this", "with", "i", "you", "it", "not", "or", "be", "are"]
+`
 
 Créé un fichier `shakespeare.txt` qui reprend le corpus intégral de l'oeuvre de l'écrivain anglais. Ton programme va appeler le fichier `shakespeare.txt` (indice : c'est plus facile s'ils sont dans le même dossier), pour ensuite compter les occurences du dictionnaire.<br>
 
