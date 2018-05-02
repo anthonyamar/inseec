@@ -169,7 +169,7 @@ Puisque c'est toi, voici un array de handles de journalistes :
 
 Et puisque c'est toi, petit tips pour itérer dessus : 
 ```Ruby
-journalist_array = ['@nom_des_journalistes']
+journalist_array = ['@nom_des_journalistes'] # remplace cet array par celui du dessus
 journalist_array.each do |a|
 	# ton code ici 
 end
