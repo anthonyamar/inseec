@@ -1,11 +1,11 @@
-Bot Twitter et Gem Ruby
+Bot Twitter et Gems Ruby
 -----------------------
 
 Aujourd'hui, nous allons faire un bot Twitter, qui va s'amuser à twitter à notre place ou a récupérer des emails sur une zone géographique en particulier. <br>
 
 Pour pouvoir faire cet exploit, il va nous falloir utiliser des Gems. Les gems sont des petite librairies que l'on installe dans son projet pour en utiliser les fonctions. Les gems c'est le bien, il y'en a tout le temps et il est très important de comprendre leur fonctionnement. 
-* Voici un petit tuto sympa pour comprendre ce qu'est une gem
-* Voici un billet du Wagon sur les gems indispensables pour Rails et Ruby
+* Voici [une explication](https://en.wikipedia.org/wiki/RubyGems) pour comprendre ce qu'est une gem
+* Voici [un billet du Wagon](https://www.lewagon.com/fr/blog/25-gems-indispensables-pour-debuter-une-application-rails) sur les gems indispensables pour Rails et Ruby
 
 Aujourd'hui, nous allons voir deux gems : 
 
