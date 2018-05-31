@@ -52,3 +52,35 @@ Maintenant, vous pouvez commencer à coder chacun votre partie. Faites un point 
 <br>
 May the force be with you ! 
 
+Rendu du projet Next Billion Dollar Start-up ! 
+----------------------------------------
+
+Ce projet sera votre note de projet de groupe. 
+A rendre pour le 31/05 à 23h59. 
+
+### Pour votre rendu 
+
+* Pushez le code sur le Github de votre chef de projet.
+* Dans le dossier, ajoutez un fichier `README.md` et écrivez à propos de votre projet un mini pitch deck. (Value proposition, team, market...). Découvrez ici [comment écrire du MarkDown (.md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Pushez [votre site en ligne via Surge](https://github.com/anthonyamar/inseec/tree/master/week_1/03_html_css#projet--faire-ses-premiers-sites-et-les-mettre-en-ligne) et mettez le lien dans votre README.md
+
+La notation est simple : <br>
+15 points pour la qualité du site 
+* Aspect visuel
+* Cohérence du propos et de la mise en page
+* Efficacité commerciale
+* Respects des codes du web actuel
+
+Posez-vous la question : Admettons que mon produit existe, en tant que client, serais-je prêt à acheter juste en voyant cette landing-page ?<br>
+
+5 points sur la qualité du code et le respect des guidelines : 
+* Push sur Github (1pts)
+* Push sur Surge (1pts)
+* README.md (1pts)
+* Code propre et indenté avec les bonnes extensions de fichier (2pts)
+
+Posez-vous la question : Si demain je décide d'en faire une boite, est-ce que mon code sera assez lisible pour qu'un autre développeur travail dessus ? <br>
+
+Pénalités : 
+* Retard de rendu (2pts/jours)
+* Modification sauvage après rendu (1pts/modifs)
