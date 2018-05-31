@@ -65,7 +65,7 @@ A rendre pour le 31/05 à 23h59.
 * Pushez [votre site en ligne via Surge](https://github.com/anthonyamar/inseec/tree/master/week_1/03_html_css#projet--faire-ses-premiers-sites-et-les-mettre-en-ligne) et mettez le lien dans votre README.md
 
 La notation est simple : <br>
-15 points pour la qualité du site 
+##### 15 points pour la qualité du site 
 * Aspect visuel
 * Cohérence du propos et de la mise en page
 * Efficacité commerciale
@@ -73,7 +73,7 @@ La notation est simple : <br>
 
 Posez-vous la question : Admettons que mon produit existe, en tant que client, serais-je prêt à acheter juste en voyant cette landing-page ?<br>
 
-5 points sur la qualité du code et le respect des guidelines : 
+##### 5 points sur la qualité du code et le respect des guidelines : 
 * Push sur Github (1pts)
 * Push sur Surge (1pts)
 * README.md (1pts)
@@ -81,6 +81,6 @@ Posez-vous la question : Admettons que mon produit existe, en tant que client, s
 
 Posez-vous la question : Si demain je décide d'en faire une boite, est-ce que mon code sera assez lisible pour qu'un autre développeur travail dessus ? <br>
 
-Pénalités : 
+##### Pénalités : 
 * Retard de rendu (2pts/jours)
 * Modification sauvage après rendu (1pts/modifs)
