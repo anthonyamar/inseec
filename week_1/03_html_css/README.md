@@ -27,7 +27,7 @@ C'est super cool de faire des sites en local, mais des fois tu as envie d'en fai
 Voici une liste de sites trop cools pour mettre en ligne des sites : <br>
 
 * Découvrir [Github Pages](https://pages.github.com/), un service ultra méga cool qui offre un hébergement de site par utilisateur
-* Découvrir [Surge](surge.sh), un super service qui te permettra de mettre en ligne rapido des dossiers à toi
+* Découvrir [Surge](https://surge.sh), un super service qui te permettra de mettre en ligne rapido des dossiers à toi
 * Découvrir [RawGit](https://rawgit.com/), qui permet de mettre en ligne gratuitement un repository Github. Pour faire marcher RawGit, tu n'as qu'à copier-coller le lien du fichier index.html de ton dossier Github et à toi la gloire !
 * Découvrir [OVH](https://www.ovh.com/fr/domaines/), une belle startup française qui vend des noms de domaine pour pas trop cher
 * Découvrir [Gandi](https://www.gandi.net/en), un service qui vend des noms de domaine et qui s'occupe très bien de leur gestion. On peut [transférer facilement un nom de domaine de OVH à Gandi](https://wiki.gandi.net/fr/domains/transfer/fromovh)
@@ -43,8 +43,8 @@ Tu as appris à construire un site vite fait, et à le déployer en ligne. Maint
 
 Il existe un site qui fait l'apologie du webdesign brutaliste : [MotherFuckingWebsite](http://motherfuckingwebsite.com/). Pour le tour de chauffe, tu vas recréér ce site, et le mettre en ligne sur : <br>
 
-* [Surge]()
-* [RawGit]()
+* [Surge](https://surge.sh)
+* [RawGit](https://rawgit.com/)
 
 Les petits malins du code vont remarquer qu'il suffit de copier-coller le code source pour faire marcher la page. [Habile](https://www.youtube.com/watch?v=18SNR9c09is). Cependant, [cette technique ne marchera pas](https://xkcd.com/1605/), donc nous te conseillons vivement de jouer le jeu dès aujourd'hui, pour éviter les mauvaises surprises plus tard 😨
 
