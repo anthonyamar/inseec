@@ -1,3 +1,7 @@
+Introduction à Ruby
+-------------------
+Ruby est un language de programmation libre, interprété, très haut niveau, orienté objet et multi-paradigme majoritairement executé côté serveur et utilisé principalement avec Rails pour créer des sites internets. Sa syntaxe simple et très proche de l'anglais en font un language très poétique et agréable à lire. La vision de Matz, créateur de Ruby en 1995, été de développer un langage qui rendrait heureux les développeurs. Aujourd'hui, nous allons découvrir comment utiliser ce language et comprendre sa syntaxe afin de commencer la programmation. <br>
+Dans un premier temps, tu vas faire [la track Ruby du site Codecademy](https://www.codecademy.com/learn/learn-ruby). Cette track te permettra d'apréhender Ruby et de comprendre les mécaniques de la programmation. Même si il existe une track en français, il est très vivement conseiller de la faire en anglais, étant donné que toute les ressources dans le développement sont en anglais, il vaut mieux commencer à s'habituer dès le début. <br>
 
 Premiers programmes
 -------------------------
