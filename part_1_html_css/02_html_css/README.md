@@ -1,3 +1,5 @@
+Slide : https://we.tl/t-wNkVoacaRD
+
 HTML
 ----------
 Cette ressource te permettra de comprendre HTML, qui permet d'afficher des pages web. <br>
