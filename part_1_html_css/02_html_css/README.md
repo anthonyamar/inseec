@@ -1,4 +1,4 @@
-Slide : https://we.tl/t-wNkVoacaRD
+Slide : https://we.tl/t-QCDjbSJQ9g
 
 HTML/CSS
 ----------
@@ -11,6 +11,9 @@ En complément et pour avancer à la maison, voici une ressource :  <br>
 * La première partie de [la track HTML / CSS de OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3), jusqu'à la partie Mettre en place le CSS.
 * Voici [une ressource hyper utile](https://www.w3schools.com/html/default.asp) pour le HTML et le CSS. C'est la doc principale d'HTML/CSS, vous y trouverez toute les balises/déclarations que vous avez besoin, ainsi que la syntaxe. 
 * Il y'a aussi le très bon site de Codecademy pour apprendre [le HTML](https://www.codecademy.com/learn/learn-html) et/ou [le CSS](https://www.codecademy.com/learn/learn-css)
+
+### Positionnement
+Le positionnement en CSS peut très vite s'avérer fastidieux. Pour nous rendre faciliter les choses, il existe des fonctions CSS appelés Flexbox, 
 
 L'inspecteur d'éléments
 ---------------------------
