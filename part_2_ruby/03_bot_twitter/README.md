@@ -108,13 +108,13 @@ Comment faire pour éviter ceci ? Plusieurs méthodes :
 * Tu peux faire un programme du genre :
 
 ```Ruby
-   p "consumer_key stp ?"
+   puts "consumer_key stp ?"
    twitter_consumer_key = gets.chomp
-   p "consumer_secret stp ?"
+   puts "consumer_secret stp ?"
    twitter_consumer_secret = gets.chomp
-   p "consumer_token stp ?"
+   puts "consumer_token stp ?"
    twitter_consumer_token = gets.chomp
-   p "consumer_token_secret stp ?"
+   puts "consumer_token_secret stp ?"
    twitter_consumer_token_secret = gets.chomp
 
    client = Twitter::REST::Client.new do |config|

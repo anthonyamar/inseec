@@ -1,7 +1,11 @@
 Introduction à Ruby
 -------------------
-Ruby est un language de programmation libre, interprété, très haut niveau, orienté objet et multi-paradigme majoritairement executé côté serveur et utilisé principalement avec Rails pour créer des sites internets. Sa syntaxe simple et très proche de l'anglais en font un language très poétique et agréable à lire. La vision de Matz, créateur de Ruby en 1995, été de développer un langage qui rendrait heureux les développeurs. Aujourd'hui, nous allons découvrir comment utiliser ce language et comprendre sa syntaxe afin de commencer la programmation. <br>
+Ruby est un language de programmation libre, interprété, très haut niveau, orienté objet et multi-paradigme majoritairement executé côté serveur et utilisé principalement avec Rails pour créer des sites internets. Sa syntaxe simple et très proche de l'anglais en font un language très poétique et agréable à lire. La vision de Matz, créateur de Ruby en 1995, été de développer un langage qui rendrait heureux les développeurs. Aujourd'hui, nous allons découvrir comment utiliser ce language et comprendre sa syntaxe afin de commencer la programmation. <br><br>
 Dans un premier temps, tu vas faire [la track Ruby du site Codecademy](https://www.codecademy.com/learn/learn-ruby). Cette track te permettra d'apréhender Ruby et de comprendre les mécaniques de la programmation. Même si il existe une track en français, il est très vivement conseiller de la faire en anglais, étant donné que toute les ressources dans le développement sont en anglais, il vaut mieux commencer à s'habituer dès le début. <br>
+
+Utiliser Ruby sans installer les packages 
+----------------------------------------
+Ruby est un langage qui fonctionne bien mieux sur des OS à coeur Unix (Mac et Linux) que sur Windows. Pour pouvoir rentrer dans le code plus rapidement et éviter les bugs d'installation lié à l'inter-compatibilité des devices, nous allons utiliser ce merveilleux site qui [Repl.it](https://repl.it/). C'est un site qui permet de coder du Ruby et de l'interprêter directement dans le navigateur. Il va également nous permettre [d'intégrer des gems](https://repl.it/site/blog/ruby_gems) pour étendre les possibilités de nos programmes. 
 
 Premiers programmes
 -------------------------
@@ -14,7 +18,7 @@ Important : nous allons effectuer du peer code review demain, donc pense à mett
 
 ##### 1. Multiples de 3 et 5
 
-Cédric Villani a besoin d'aide pour son prochain prix Nobel de Mathématiques. Il a besoin de résoudre le problème suivant : Si on liste tous les entiers naturels en dessous de 10 qui sont multiples de 3 ou 5, on obtient 3, 5, 6, et 9. La somme de ces nombres est égale à 23.<br>
+Cédric Villani a besoin d'aide pour sa prochaine médaille Fields. Il a besoin de résoudre le problème suivant : Si on liste tous les entiers naturels en dessous de 10 qui sont multiples de 3 ou 5, on obtient 3, 5, 6, et 9. La somme de ces nombres est égale à 23.<br>
 Trouve la somme des multiples de 3 et 5 inférieurs à 1000.
 
 ##### 2. Chiffrer des données
@@ -25,7 +29,7 @@ Après ce petit tour de chauffe, tu vas apprendre la cyber-sécurité, avec un a
 
 Ta mission : créér une méthode chiffre_de_cesar qui prend en paramètre un string et le nombre de lettre à décaler, et sort le string modifié.
 
-```Ruby > chiffre_de_cesar("What a string!", 5)
+```Ruby > caesar_cypher("What a string!", 5)
 => "Bmfy f xywnsl!"
 ```
 
