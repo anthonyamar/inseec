@@ -16,12 +16,32 @@ Ces programmes ne sont pas sensés être faciles, et ce sera l'un des plus inten
 
 Important : nous allons effectuer du peer code review demain, donc pense à mettre en ligne ton code sur Github. D'ailleurs, nous te conseillons de le faire pour tous la majorité des projets : c'est un excellent entraînement pour le monde de l'entreprise. <br>
 
-##### 1. Multiples de 3 et 5
+##### 1. Greetings
 
-Cédric Villani a besoin d'aide pour sa prochaine médaille Fields. Il a besoin de résoudre le problème suivant : Si on liste tous les entiers naturels en dessous de 10 qui sont multiples de 3 ou 5, on obtient 3, 5, 6, et 9. La somme de ces nombres est égale à 23.<br>
+Avec un array de prénom donné `["Harry", "Hermione", "Neville", "Ron", "Drago", "Luna"]` : faire un script qui tour à tour va souhaiter la bienvenue à chacune des personnes de cet array. 
+
+##### 2. Multiplication game
+
+Créer un jeu pour apprendre les tables de multiplication. Votre jeu doit donner une multiplication à faire, le joueur doit rentrer le résultat et votre programme doit répondre si oui ou non c'est une bonne réponse. L'utilisation d'une boucle `loop` sera très apprécié afin de pouvoir jouer au jeu des heures sans avoir à relancer le programme :-). 
+```
+-> 3 x 4 ? # demande du jeu
+12 # réponse du joueur
+-> Félicitations ! 
+-> 7 x 9 ? # demande du jeu
+53 # réponse du joueur
+-> He non... C'est 63 !
+```
+
+##### 3. Problème des millénaires
+Il existe des [problèmes non résolus en mathématique](https://fr.wikipedia.org/wiki/Probl%C3%A8mes_du_prix_du_mill%C3%A9naire) ! En résoudre certains peut vous donner accès à la médaille Fields et vous faire gagner 1 million de dollars !
+Cédric Villani a besoin de ton aide pour résoudre le problème des [Nombre de Lychrel](https://fr.wikipedia.org/wiki/Nombre_de_Lychrel). Il faut que tu créé un algorithme qui permet de tester un nombre afin de savoir si c'est un nombre de Lychrel ou pas. 
+
+##### 4. Multiples de 3 et 5
+
+Cédric Villani a encore besoin d'aide pour sa prochaine médaille Fields. Il a besoin de résoudre le problème suivant : Si on liste tous les entiers naturels en dessous de 10 qui sont multiples de 3 ou 5, on obtient 3, 5, 6, et 9. La somme de ces nombres est égale à 23.<br>
 Trouve la somme des multiples de 3 et 5 inférieurs à 1000.
 
-##### 2. Chiffrer des données
+##### 5. Chiffrer des données
 
 Après ce petit tour de chauffe, tu vas apprendre la cyber-sécurité, avec un algorithme de chiffrement hyper secure (lol) : le chiffrement par décalage. En effet, la NSA a besoin de chiffrer leurs emails et veulent faire appel à toi pour faire un chiffrement par décalage.
 
@@ -39,7 +59,7 @@ Tips : <br>
 * n'oublie pas de boucler z à a
 * nous te conseillons de garder la même casse
 
-##### 3. Stock picker
+##### 6. Stock picker
 
 Après la cyber-sécurité à la NSA, Lehman Brother veut te débaucher pour faire de la finance. Hyper cool. Ils vont te demander de coder un premier programme qui permet, à partir d'une array de prix, de connaitre le meilleur jour d'achat, le meilleur jour de revente pour faire le maximum de bénéfices.<br>
 Voici par exemple une array de prix : `[17,3,6,9,15,8,6,1,10]`, la fonction `trader_du_dimanche` va devoir sortir les index du jour d'achat et du jour de revente qui donneront le plus haut bénéfice. Pour l'array vue ci-haut par exemple, ce sera le deuxième jour (à l'achat) et le cinquième jour (à la revente)
@@ -60,7 +80,7 @@ jour_7 = { :GOO => 17, :MMM => 14, :ADBE => 2, :EA=> 17, :BA => 7, :KO => 13, :X
 ```
 
 Fais une fonction `trader_du_lundi` qui prend en entrée une array de hash contenant des prix d'action, et qui sort pour chaque entreprise le meilleur moment pour acheter, et le meilleur moment pour vendre.
-##### 4. Compter les mots
+##### 7. Compter les mots
 
 Après Lehman Brothers, Google a besoin de toi pour faire de la Data Science. Quelle star ! Écris une fonction intitulée jean_michel_data qui prend en paramètre 2 data types :
 
@@ -76,7 +96,7 @@ jean_michel_data("Howdy partner, sit down! How's it going?", dictionary)
 => {"down"=>1, "how"=>2, "howdy"=>1,"go"=>1, "going"=>1, "it"=>2, "i"=> 3, "own"=>1,"part"=>1,"partner"=>1,"sit"=>1}
 ```
 
-##### 4.bis Compter les mots (bis)
+##### 7.bis Compter les mots (bis)
 
 Google veut savoir combien de fois l'on peut trouver dans l'oeuvre intégrale de Shakespeare les mots suivants :
 
