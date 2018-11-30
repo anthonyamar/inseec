@@ -97,6 +97,15 @@ Tu peux commencer à voir [les méthodes données en exemple](https://github.com
 
 Maintenant que tu as balancé ton premier `"Hello world"` sur Twitter, tu vas partir en bot Twitter. Mais puisque nous ne sommes pas comme ça, on va te donner des conseils.
 
+#### 2.4- Exercices pour l'INSEEC
+
+1. Récupérer les tweets mentionnant le mot INSEEC.
+2. Récupérer les followers de votre compte. 
+3. Récupérer les follower d'un follower random de votre artiste préféré
+4. Récupérer la timeline
+5. Sur le premier tweet de la timeline, donner le nombre de like, RT, commentaires...
+6. Obtenir les informations de l'utilisateur du tweet en question.
+
 Clés d'APIs et GitHub
 ---------------------
 
