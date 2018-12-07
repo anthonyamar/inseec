@@ -1,4 +1,4 @@
-EVALUATION : https://we.tl/t-lRar1Ztk7V
+
 
 Bot Twitter et Gems Ruby
 -----------------------
