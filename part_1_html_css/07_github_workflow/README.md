@@ -10,13 +10,13 @@ Afin que l'on soit d'accord sur les termes :
 
 **Un commit** : Étape d'ajout des fichiers modifiés/créés/supprimés à un packet qui sera après "pushé" en ligne. Un commit nécessite forcément un titre. Cette étape n'intervient que sur notre machine. 
 
-**Push **: Étape finale de mise en ligne. Pusher du code revient à le mettre en ligne sur notre repo distant. 
+**Push**: Étape finale de mise en ligne. Pusher du code revient à le mettre en ligne sur notre repo distant. 
 
 **Pull** :  Action de récupérer du code distant sur notre machine. 
 
 **Fetch** : Littéralement "aller chercher". Action d'aller vérifier si le repo en ligne contient du code que l'on a pas sur notre machine. Si oui, on pull pour récupérer. 
 
-**Branch **: Permet de développer sur des versions parallèles du même code afin de ne pas altérer la version principale. La branche principale est appelé "Master", c'est celle qui contient le code final, destiné à être mis en ligne. 
+**Branch**: Permet de développer sur des versions parallèles du même code afin de ne pas altérer la version principale. La branche principale est appelé "Master", c'est celle qui contient le code final, destiné à être mis en ligne. 
 
 **Clone** : L'action de cloner un repo est celle de copier un repo distant sur notre machine. Nous le faisons dans le cas où nous souhaitons collaborarer sur un repo existant.
 
