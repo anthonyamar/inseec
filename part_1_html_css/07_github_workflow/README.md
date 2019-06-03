@@ -24,7 +24,7 @@ Afin que l'on soit d'accord sur les termes :
 
 **History** : Historique des commits, afin de pouvoir voir les changements effectués ou trouver un point de "rollback" 
 
-**Rollback **: Retour vers une version antérieure 
+**Rollback**: Retour vers une version antérieure 
 
 ## 1. Créer son compte sur Github et télécharger Github Desktop
 
@@ -62,7 +62,7 @@ Félicitations, vous avez initialisé un repo sur votre machine. Maintenant, met
 
 Félicitations, votre code est en ligne ! Vous pouve le vérifier dans la partie "My repositories" sur https://github.com
 
-## 3 Ajouter des collaborateurs·rices au projet
+## 3. Ajouter des collaborateurs·rices au projet
 
 Car Github est avant tout un outil collaboratif, il vous faudra ajouter vos collaborateurs·rices au dossier.
 
@@ -118,7 +118,7 @@ Voilà, vous avez fini !
 
 Pour une gestion de projet basique, le concept de push/pull suffit. Réitérez les étapes 5 et 6 pour partager du code. A force cela devient un automatisme. 
 
-L'utilisation de Git pour des développeurs passe après par l'utilisation de branchs et de "pull requests". Vous pouvez trouver deux bon tutos à ce sujet : 
+L'utilisation de Git pour des développeurs·euses après par l'utilisation de branches et de "pull requests". Vous pouvez trouver deux bon tutos à ce sujet : 
 
 https://fr.atlassian.com/git/tutorials/comparing-workflows
 
