@@ -3,6 +3,7 @@
 
 Hello 👋. 
 Si tu es ici, c'est que tu es un·e élève de l'INSEEC. Si ce n'est pas le cas, ça n'est pas grave, tu es le bienvenue aussi ! 
+
 Sur ce repository, tu trouveras tes supports de création de projet. Il peut s'agir de :
 
 - Slides
@@ -22,6 +23,7 @@ Quoi qu'il en soit, les resources de ce dossier te serviront pour les séances d
 
 Ce repo est un peu comme un livre. Il contient des grandes parties, des chapitres, sous chapitres etc. 
 La navigation est très simple : chaque dossier contient un fichier `README.md` (votre lecture !) ainsi que des dossiers supplémentaires, lesquels ont également des fichiers `README.md`. Naturellement Github affiche le contenu du fichier ce qui vous permet de lire le cours sur Github. D'ailleurs, ce que vous lisez là, c'est le contenu d'un de ces fameux README. 
+
 Naviguez donc simplement dans les dossiers et lisez ce qui vous semble intéressant en fonction de votre avancée, ce qui vous est demandé ou bien ce qui attire votre curiosité. 
 
 ## 📜 Syllabus
