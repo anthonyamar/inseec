@@ -2,6 +2,7 @@
 ---------------------
 
 Hello 👋. 
+
 Si tu es ici, c'est que tu es un·e élève de l'INSEEC. Si ce n'est pas le cas, ça n'est pas grave, tu es le bienvenue aussi ! 
 
 Sur ce repository, tu trouveras tes supports de création de projet. Il peut s'agir de :
