@@ -1,57 +1,85 @@
-Introduction Slide : https://fr.slideshare.net/secret/NrNtoYWBjcaYZA
-
-Préparcours
+🎓 Coaching - INSEEC MSc
 ---------------------
 
-Durant le préparcours, tu fera tes premiers pas dans le code et tu configurera ta machine pour pouvoir réaliser l'ensemble du parcours. Cela comprends : un peu de théorie sur le fonctionnement de l'informatique et de la programmation, installer un noyaux Linux pour les machine sous Windows, faire l'installfest afin d'installer tous les packages et dépendences nécéssaires au développement. 
+Hello 👋. 
+Si tu es ici, c'est que tu es un·e élève de l'INSEEC. Si ce n'est pas le cas, ça n'est pas grave, tu es le bienvenue aussi ! 
+Sur ce repository, tu trouveras tes supports de création de projet. Il peut s'agir de :
 
-Introduction au Front
----------------------
+- Slides
+- Liens
+- Textes
+- Vidéos
+- Livres
+- Articles
+- Tutoriels
+- Formulaires
 
-Durant cette première partie, nous allons te montrer les bases de l'informatique : tu vas apprendre à utiliser le fameux terminal de l'écran noir, tu vas créer tes premiers sites (que tu devras mettre en ligne) en utilisant HTML / CSS / JavaScript / jQuery. Deux principaux projets : Refaire la home page de Google, créer sa propre landing page pour un projet de start-up. 
+Quoi qu'il en soit, les resources de ce dossier te serviront pour les séances de travail. Ce sont les resources que tu aura à consulter chez toi et/ou en classe, seul·e ou avec ton groupe. Le lien restant public, tu pourras aussi reconsulter toute les resources une fois ton semestre achevé et continuer à évoluer dans les domaines qui te sont chers ! 
 
+**Tips** : Une fois ton compte Github créé, tu peux mettre en "Star repository" ce dossier, en cliquant sur la petite étoile en haut à gauche. 
 
-Découverte de Ruby
----------------------
+## ⁉️ How to use ? 
 
-La deuxième partie sera consacrée à un apprentissage intensif de Ruby, le fameux langage de programmation que nous en grande partie utiliser durant la formation. Si dans les premiers jours tu feras des introductions poussées aux concepts clés tels que les formats de données, les itérations et les gems, nous allons passer rapidement vers des cas concrets : bot twitter, scrapping, etc
+Ce repo est un peu comme un livre. Il contient des grandes parties, des chapitres, sous chapitres etc. 
+La navigation est très simple : chaque dossier contient un fichier `README.md` (votre lecture !) ainsi que des dossiers supplémentaires, lesquels ont également des fichiers `README.md`. Naturellement Github affiche le contenu du fichier ce qui vous permet de lire le cours sur Github. D'ailleurs, ce que vous lisez là, c'est le contenu d'un de ces fameux README. 
+Naviguez donc simplement dans les dossiers et lisez ce qui vous semble intéressant en fonction de votre avancée, ce qui vous est demandé ou bien ce qui attire votre curiosité. 
 
+## 📜 Syllabus
 
-Initiation à Ruby on Rails
----------------------
+### Pourquoi ce cours ?
 
-Après avoir vu intensivement Ruby, tu seras enfin prêt à faire des sites web dynamiques ! Cela tombe bien puisque nous allons voir Ruby on Rails. Cette partie sera consacrée aux bases de Ruby on Rails : faire des sites avec des models simples.
+Depuis que j'enseigne, ma mission a toujours été de ramener la **curiosité** et la **créativité** dans l'éducation. Ce cours est un peu à l'image de cette volonté. Il se veut être un cours dont le contenu s'adapte aux projets que vous développerez lors des séances de travail et donc selon vos besoins, votre avancée, votre envie d'en savoir plus sur tel ou tel sujet ou bien sur des éléments communs à tous les groupes. 
 
-Ruby intermédiaire
----------------------
+### Comment se déroule t'il ?
 
-Dans cette partie, tu verras les concepts un peu plus complexes de Ruby : tu verras comment s'amuser avec des APIs, comment scrapper le deep web, ou encore tu verras des concepts clés comme la Programmation Orientée Objet (POO).
+Le nom "coaching" est peu évocateur. Certains disent que c'est un cours de management de projet, d'autres de programmation, d'entreprenariat tech ou encore un "startup studio". Well, rien n'est véritablement faux et ce cours est un peu tout cela à la fois.
+Au premier cours, vous constiturez vos équipes en fonction de vos passions et afinités et chaque cours sera une occasion pour vous de travailler sur un projet commun vous tenant à coeur. À chaque séance, une partie sera dédiée à l'apprentissage de nouvelles compétences utiles en fonction de l'avancée globale de la classe. Le reste du temps, je serait là pour vous challenger sur vos idées et vous accompagner afin de faire en sorte que votre projet soit meilleur chaque jour !
 
-Rails intermédiaire
----------------------
+### Quel genre de projet ?
 
-Maintenant que tu sais réaliser des sites simples en Rails, nous allons voir comment faire des sites un peu plus avancés, notamment avec la conception d'utilisateurs, de login, de pages accessibles uniquement à certains type d'utilisateurs
+N'importe quel projet à caractère entrepreneurial et innovant ! Soit : 
 
+- Une startup avec une dimension tech, pour régler un problème auquel vous êtes confronté
+- Une entreprise de service dans un secteurs que vous aimez et sur lequel vous pouvez innover
+- Une non-profit qui se veut influer des changements societaux d'une façon différente
 
-Rails avancé
----------------------
+### Des exemples de projet !
 
-Après avoir transpiré sur la partie dure de Rails, tu vas voir certains concepts plus avancés qui vont t'aider à faire les sites de tes rêves : faire un login simple avec la gem devise, insérer du JavaScript dans son site, utiliser les services pour avoir du code propre. Après ceci tu sauras faire des applications assez complexes.
+Voici quelques exemples tirés des projets de mes précédentes classes :
 
+- Une application de comparatif de VTC
+- Une agence de mise en relation entre influenceurs et marques
+- Une plateforme de donnation en ligne dédié aux entreprises
+- Des sports-wear connectés pour améliorer ses performances sportives
+- Une application de mise en relation de consommateurs pour éviter le gaspillage
+- Un lit connecté pour améliorer la qualité de sommeil
+- Une application de réservation de parking à Paris
+- Un site de recette de cuisine aux vertues médicinales
+- Une école post-bac novatrice
+- Une application de food avec des cuisiniers robotisés
+- Une épicerie zero-déchet
+- Un chatbot messenger de recommandation de série
+- Et encore plus d'une dizaine d'exemple tous plus variés les uns que les autres ! 😊 
 
-HTML / CSS
----------------------
+L'important est de laisser libre cour à son imagination, trouver un problème qui compte pour vous puis s'attaquer à sa résolution !
 
-Maintenant que tu sais faire des super back-ends, nous allons voir ensemble comment faire du beau front-end, pour que tes sites ressemblent à des trucs beaux gosses. Cette semaine tu vas faire plein de pages web pour apprendre à faire du front rapidement, et de la mise en page des champions.
+### Qu'allons-nous apprendre ?
 
+Une grande variété de chose ! Ce qui importe à la fin, c'est que vous ayez un nouveau mindset : une façon différente d'entreprendre des projets, aussi complèxes soient-ils. Quelques exemples :
 
-JavaScript de front
----------------------
+- Pourquoi entreprendre et quel état d'esprit adopter
+- Comment monter une super équipe pour son projet
+- Trouver un problème qui compte et des idées pour le régler
+- Why, how what : comment inspirer l'action !
+- MVB : Minimum Viable Brand
+- L'art de landing page
+- Les caisse à outils magique de l'entrepreneur pauvre (pour l'instant 😎), mais malin
+- Le fonctionnement du web
+- Apprendre à apprendre le code
+- Premier site statique en HTML et CSS
+- Écrire moins de code, avoir plus de résultat : les frameworks CSS
+- Sortir une landing page en 2 heures : templating like a boss
+- Créer un pitch percutant
+- Pourquoi et comment continuer son projet après l'école. 
 
-JavaScript est omniprésent, ainsi nous allons consacrer une partie du programme à te donner quelques bases en JavaScript pour que tu fasses de beaux sites intéractifs.
-
-
-Projet : Airbnb
----------------------
-
-Durant cette semaine, tu vas réaliser un site type Airbnb. Ce sera l'occasion de faire ton premier gros site, et de travailler en équipe sur un repo Github.
+Ready ? 🚀
