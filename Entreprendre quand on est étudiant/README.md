@@ -8,7 +8,7 @@ Car oui, être étudiant, pour la grande majorité, c'est ne rien avoir à perdr
 - Pas de mari/femme à convaincre
 - Pas d'enfants à nourir
 - Pas d'argent à perdre
-- Pas de répercussion trop sévère si vous vous absentez des cours
+- Pas de répercussions trop sévères si vous vous absentez des cours
 - Des profs sympas qui tolèrent que vous ne fassiez pas vos devoirs... *(je vous ai à l'oeil quand même)*
 
 Entreprendre en tant qu'étudiant comporte un si gros lot d'avantages qu'il serait complètement fou de passer à côté :
