@@ -9,7 +9,7 @@ Car oui, être étudiant, pour la grande majorité, c'est ne rien avoir à perdr
 - Pas d'enfants à nourir
 - Pas d'argent à perdre
 - Pas de répercussion trop sévère si vous vous absentez des cours
-- Des profs sympas qui tolèrent que vous ne fassiez pas vos devoirs *(je vous ai à l'oeil quand même)*...
+- Des profs sympas qui tolèrent que vous ne fassiez pas vos devoirs... *(je vous ai à l'oeil quand même)*
 
 Entreprendre en tant qu'étudiant comporte un si gros lot d'avantages qu'il serait complètement fou de passer à côté :
 
@@ -18,7 +18,7 @@ Entreprendre en tant qu'étudiant comporte un si gros lot d'avantages qu'il sera
 - Quand c'est fait avec sérieux : rien n'est plus responsabilisant que l'entrepreunariat !
 - Vous apprendrez + en 1 an d'entrepreneuriat qu'en 3 ans d'études *(et encore...)*
 - Vous vous crééez un emploi sur mesure : votre boite, vos règles
-- Le salaire peut aller de l'argent de poche, au smicard confortable, au beau salaire jusqu'à un/des millions/milliards.
+- Le salaire peut aller de l'argent de poche, au smic confortable, au beau salaire jusqu'à un/des millions/milliards.
 - Bon ok, va falloir bosser très intelligement pour le milliard. Mais imaginez que ça marche ? 🤓
 
 Quand il s'agit de mindset entrepreneurial, [The Family](https://thefamily.co) et [Koudetat](https://koudetat.co) reviennent souvent sur la table, à raison. 
