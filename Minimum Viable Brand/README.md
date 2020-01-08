@@ -17,7 +17,7 @@ Le MVB concerne bien plus que la simple charte graphique que l'on a vu en cours 
 
 L'utilisation du MVB Canva peut vous permettre de travailler plus efficacement sur votre MVB. Pour l'instant nous avons travaillé sur le Why et sur le See (visual) :
 
-![2f5cd52410730b4ba06c690ec0fc0af0](inseec/Minimum Viable Brand/mvb-canva.jpg)
+![2f5cd52410730b4ba06c690ec0fc0af0](mvb-canva.jpg)
 
 Aller plus loin :
 
