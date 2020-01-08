@@ -44,6 +44,7 @@ N'importe quel projet à caractère entrepreneurial et innovant ! Soit :
 
 - Une startup avec une dimension tech, pour régler un problème auquel vous êtes confronté
 - Une entreprise de service dans un secteurs que vous aimez et sur lequel vous pouvez innover
+- Une entreprise remettant un produit que vous pensiez pouvoir être remis au goût du jour
 - Une non-profit qui se veut influer des changements societaux d'une façon différente
 
 ### Des exemples de projet !
@@ -74,9 +75,10 @@ Une grande variété de chose ! Ce qui importe à la fin, c'est que vous ayez un
 - Comment monter une super équipe pour son projet
 - Trouver un problème qui compte et des idées pour le régler
 - Why, how what : comment inspirer l'action !
-- MVB : Minimum Viable Brand
+- Minimum Viable Brand
+- Design 101
+- La caisse à outils magique de l'entrepreneur pauvre (pour l'instant 😎), mais malin
 - L'art de landing page
-- Les caisse à outils magique de l'entrepreneur pauvre (pour l'instant 😎), mais malin
 - Le fonctionnement du web
 - Apprendre à apprendre le code
 - Premier site statique en HTML et CSS
