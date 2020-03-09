@@ -92,5 +92,5 @@ Un wireframe est une maquette très basique de votre site internet. Elle vous pe
 
 Pour cette partie, vous pouvez vous aider de logiciels de prototyping mais il reste préférable pour commencer rapidement de faire cela sur papier. 
 
-![wireframe](/Users/anthonyamar/Documents/the_hacking_project/inseec/Landing pages/wireframe.jpeg)
+![](/Users/anthonyamar/Documents/the_hacking_project/inseec/Landing pages/wireframe.jpeg)
 
