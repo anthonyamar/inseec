@@ -82,3 +82,15 @@ Pourquoi ça marche et c'est hyper cohérent ? Parmis les missions de The Family
 ### Inspirations plus large : 
 
 Vous pouvez trouver tout un tas d'autres super landing pages sur [https://lapa.ninja](https://lapa.ninja). Filtrez les site en fonction du secteur et de votre couleur accent afin de nourrir votre inspiration. 
+
+- 📝 https://unbounce.com/landing-page-examples/high-converting-landing-pages/
+- 🎥 https://www.youtube.com/watch?v=i5eHq26Y73k
+
+# Créer un wireframe
+
+Un wireframe est une maquette très basique de votre site internet. Elle vous permet de faire un premier (grossier) prototype d'interface afin d'avoir un guide à suivre lors du développement. 
+
+Pour cette partie, vous pouvez vous aider de logiciels de prototyping mais il reste préférable pour commencer rapidement de faire cela sur papier. 
+
+![wireframe.jpg](/wireframe.jpeg)
+
