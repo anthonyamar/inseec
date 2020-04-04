@@ -30,7 +30,7 @@ Si sa durée varie selon le contexte, la majorité des concours de pitchs sont o
 
 En tant que startup, considérez que vous êtes la meilleure équipe pour régler un problème pour lequel un grand nombre de personnes sont prêtes à payer et que vous allez conquérir le monde avec ça. Commencez donc par ces éléments là :
 
-- Définissez un problème : comment avez-vous détecté ce problème ? En quoi est-ce qu'il génère de la frustration ?Pourquoi les autres acteurs n'ont-ils pas réussi à résoudre ce problème ?
+- Définissez un problème : comment avez-vous détecté ce problème ? En quoi est-ce qu'il génère de la frustration ? Pourquoi les autres acteurs n'ont-ils pas réussi à résoudre ce problème ?
 - La solution à ce problème : quel est votre produit, comment règle-t-il ce problème et qu'apporte-t-il à ses utilisateurs·rices ? Comment est-ce qu'on l'utilise ?
 - Un grand nombre de personne : qui sont les client·e·s et quelle est la taille du marché à conquérir ?
 - Prêts à payer pour la solution : quel est votre business model ?
