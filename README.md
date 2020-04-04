@@ -78,7 +78,7 @@ Une grande variété de chose ! Ce qui importe à la fin, c'est que vous ayez un
 - Minimum Viable Brand
 - Design 101
 - La caisse à outils magique de l'entrepreneur pauvre (pour l'instant 😎), mais malin
-- L'art de landing page
+- L'art de la landing page
 - Le fonctionnement du web
 - Apprendre à apprendre le code
 - Premier site statique en HTML et CSS
