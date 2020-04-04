@@ -16,11 +16,11 @@ Plus que n'importe quelle présentation orale, un pitch se doit d'être mémorab
 
 ## Préparer son pitch
 
-### Seul·e, à plusieur ? 
+### Seul·e, à plusieurs ? 
 
 Seul·e.
 
-Les présentations à plusieurs ne sont jamais une bonne idée : vous vous exposez à plus d'erreurs dû aux passage de parole entre les différents présentateurs·rices, quand l'un·e parle, l'autre ne sait pas où se mettre... Bref, n'augmentez pas bêtement la probabilité de malaise de la présentation. Tel un·e sportif·ive solo, vous êtes certes la seule personne à briller aux yeux du public, mais le pitch est un travail d'équipe. Travaillez à plusieurs sur vos slides et sur la façon dont doit être construite la présentation, mais mettez le·a meilleur·e orateur·rice sur scène. 
+Les présentations à plusieurs ne sont jamais une bonne idée : vous vous exposez à plus d'erreurs dû aux passages de parole entre les différents présentateurs·rices, quand l'un·e parle, l'autre ne sait pas où se mettre... Bref, n'augmentez pas bêtement la probabilité de malaise de la présentation. Tel un·e sportif·ive solo, vous êtes certes la seule personne à briller aux yeux du public, mais le pitch est un travail d'équipe. Travaillez à plusieurs sur vos slides et sur la façon dont doit être construite la présentation, mais mettez le·a meilleur·e orateur·rice sur scène. 
 
 ### Combien de temps ? 
 
