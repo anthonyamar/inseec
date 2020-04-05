@@ -46,7 +46,7 @@ Deux choses à retenir :
 1. Jetez Powerpoint par la fenêtre
 2. Pas plus d'UNE idée par slide
 
-Préférez utiliser des logiciels de slide plus modernes et n'utilisez pas les templates prédéfinis. N'oubliez pas, le pitch, c'est un spectacle mêlant art oratoire et marketing : faites de beaux slides, épurés, classes et bien désignés, mais surtout : n'utilisez pas vos slide pour autre chose que des titre et pour plus d'une seule idée ! 
+Préférez utiliser des logiciels de slide plus modernes comme [slides.com](www.slides.com) ou [Google Slides](https://www.google.com/slides/about/) et n'utilisez pas les templates prédéfinis. N'oubliez pas, le pitch, c'est un spectacle mêlant art oratoire et marketing : faites de beaux slides, épurés, classes et bien désignés, mais surtout : n'utilisez pas vos slide pour autre chose que des titre et pour plus d'une seule idée ! 
 
 Les slides sont surtout un moyen d'illustrer des propos, en aucun cas cela doit être un élément à lire ou des récapitulatifs. Banissez systématiquement le texte en dessous de 60px et de + de 2 lignes. N'oubliez pas : **Less is more.** 
 
